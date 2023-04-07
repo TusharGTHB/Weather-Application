@@ -12,4 +12,4 @@ Search city API   url- https://api.openweathermap.org/data/2.5/weather?q={city n
 
 Current location API   url- https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key} 
 
-.....(for current weather of your curent location) ;
+.....(for current weather of your current location) ;
